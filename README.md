@@ -1,9 +1,9 @@
 # Suicide-and-Self-Inflicted-Injury-Rates-in-Post-Soviet-Countries-1968---2021
-Summary – chosen data containts information about suicide and self inflicted death count in females and males.
-Data Collection Method - The data in the databases is collected by WHO Europe in collaboration with the Member States in the WHO European region, and from other relevant international data sources. 
-Reason for choosing
-I chose this data set because my goal is bringing more awarenes to mental health issues and work agains the stigma surounding it. For this analysis I chose look into female and male suicide and self - inflicted injury death count in Lithuania, Latvia and Estonia, 1968 – 2021.
-Limitations of the data set
+# Summary 
+Chosen data containts information about suicide and self inflicted death count in females and males.
+# Data Collection Method 
+The data in the databases is collected by WHO Europe in collaboration with the Member States in the WHO European region, and from other relevant international data sources. 
+# Limitations of the data set
 •	Data completeness: Both the original WDI dataset and the final merged ones contain variables that are missing for some years and some countries.
 •	Collection bias (varying methods): The data included covers a long time horizon and comes from many different original sources meaning the ways of measuring and collecting data may differ across time and region. 
 •	Collection bias (politically motivated): The data collected comes from government entities which have their own political agendas which may result in bias in certain regions and time horizons. 
